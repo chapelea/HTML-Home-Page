@@ -1,0 +1,46 @@
+body{
+    background-color: darkred;
+    color:bisque;
+}
+img{
+    width:200px;
+    height:auto;
+}
+.testimonial{
+    font-size:x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.author{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h1{
+    background-color: darkred;
+    color: bisque;
+}
+article{
+    border: 3px solid bisque;
+    max-width: 200px;
+    float:left;
+    margin-bottom: 10px;
+    color: bisque;
+    margin-left: 5px;
+}
+h2{
+    clear: left;
+    color: blanchedalmond
+}
+hr{
+    clear: left;
+    color: bisque;
+}
+a{
+    color: cadetblue;
+    cursor: grabbing;
+}
+:link{
+    color: rgb(181, 243, 245);
+}
+:visited{
+    color:darkkhaki;
+}
